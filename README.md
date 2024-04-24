@@ -4,7 +4,7 @@
 To develop a comprehensive different types of python projects to get a hag of the libraries and working knowledge.
 
 
-## **Project Objective**
+## **Project Objective/Types**
 
 ### - 1)  Check if the email is valid email address.
 ### - 2)  QR Code Generator.
